@@ -1,0 +1,5 @@
+- Python 3.x
+- OpenCV
+- Mediapipe
+- Numpy
+- scikit-learn
